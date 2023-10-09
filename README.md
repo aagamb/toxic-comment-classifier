@@ -59,4 +59,5 @@ The results and performance metrics of the implemented models will be outlined h
 
 ## Contributors
 
-[Your Name]
+Aagam Bakliwal
+Anushka Vijaykumar Naik
